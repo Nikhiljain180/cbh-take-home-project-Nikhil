@@ -16,7 +16,7 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 
 ## Your Breakdown Here
 
-# We can proceed with small microservice based on the MVC design pattern
+# We can proceed with small microservice architecture based on the MVC design pattern
 
 # Database decision
 
