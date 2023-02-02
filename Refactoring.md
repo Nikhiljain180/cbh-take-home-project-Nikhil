@@ -9,3 +9,11 @@ You've been asked to refactor the function `deterministicPartitionKey` in [`dpk.
 You will be graded on the exhaustiveness and quality of your unit tests, the depth of your refactor, and the level of insight into your thought process provided by the written explanation.
 
 ## Your Explanation Here
+
+In process to refactoring,I made below changes
+
+1. moved all the constants into the separate constant file => Provide reusability
+2. moved hash function into separate utils file => Provide reusability
+3. Modified the code and remove the code duplicacy
+4. Optimized the current logic by simplifying the logic
+5. added couple of more test cases to handle unknown event and with one genuine event
